@@ -1,27 +1,31 @@
 # Malkavian
 
-**Red Team · Offensive Security · Penetration Testing**
+**Segurança Ofensiva · Pentest · Red Team**
 
-Offensive security professional focused on red team operations, adversary emulation and penetration testing.
+Profissional de segurança da informação especializado em testes de intrusão e operações de red team, atuando sempre de forma ética e dentro de escopos autorizados.
 
-## Focus Areas
+## Atuação
 
-- **Red Team Operations** — adversary emulation, TTPs, post-exploitation and C2
-- **Web Application Security** — OWASP Top 10, API security, authn/z bypass
-- **Network & Infrastructure** — recon, exploitation, privilege escalation, lateral movement
-- **Adversary Emulation** — MITRE ATT&CK mapping, purple team exercises
+- **Pentest (Teste de Intrusão)** — identificação e exploração de vulnerabilidades em aplicações web, APIs e infraestrutura
+- **Red Team** — emulação de adversário, simulação de TTPs e avaliação de controles defensivos
+- **Adversary Emulation** — mapeamento MITRE ATT&CK e exercícios de purple team
+- **Hardening** — recomendações de correção e melhoria da postura de segurança
+
+## Ética
+
+Todo trabalho é conduzido dentro de escopos autorizados, com permissão explícita e responsabilidade profissional. A segurança ofensiva existe para fortalecer a defesa.
 
 ## Stack
 
-- **Tooling** — Burp Suite, Metasploit, Cobalt Strike, BloodHound, Impacket, Nmap, Nuclei
-- **Scripting** — Python, Bash, PowerShell
-- **Platforms** — Linux (Kali), Windows, Active Directory
+- **Ferramentas** — Burp Suite, Metasploit, Cobalt Strike, BloodHound, Impacket, Nmap, Nuclei
+- **Linguagens** — Python, Bash, PowerShell
+- **Plataformas** — Linux (Kali), Windows, Active Directory
 
-## Contact
+## Contato
 
 - GitHub: [@malkavian-byte](https://github.com/malkavian-byte)
 - Email: `malkavian.vtm@proton.me`
 
 ---
 
-> "The adversary is the mirror."
+> "O adversário é o espelho."
